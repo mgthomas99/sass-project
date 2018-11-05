@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "sass-project",
+  "version": "1.0.0",
+  "author": "George Thomas",
+  "license": "MIT",
+  "main": "build/index.css",
+  "scripts": {
+    "build": "gulp \"build\"",
+    "dist": "gulp \"dist\""
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
