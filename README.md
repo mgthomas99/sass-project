@@ -1,6 +1,6 @@
-# css-project
+# sass-project
 
-CSS project template.
+Sass project template.
 
 ## License
 
